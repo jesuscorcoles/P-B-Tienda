@@ -1,0 +1,108 @@
+.hea-d {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 60px;
+  justify-content: space-between;
+}
+
+.hym {
+  font-family: sans-serif;
+  font-size: 12px;
+  opacity: 40%;
+}
+.hym .hym--mar {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.justi {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.mitienda {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+}
+.mitienda .mitienda--mar {
+  margin-top: 3px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.search {
+  width: 90px;
+  margin-top: 15px;
+  border-bottom: 2px black;
+}
+
+.user {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.usericon {
+  width: 10px;
+  margin-top: 18px;
+  margin-left: 10px;
+}
+
+.shopicon {
+  width: 10px;
+  margin-top: 18px;
+  margin-right: 20px;
+  margin-left: 10px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 30px;
+}
+
+.photo {
+  width: 130px;
+  height: 230px;
+  margin: 20px;
+}
+
+.img {
+  width: 100%;
+}
+
+.tx-shirt {
+  font-family: sans-serif;
+  font-size: 8px;
+  text-align: center;
+}
+.tx-shirt .tx-shirt--low {
+  opacity: 50%;
+}
+
+.prebox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.line {
+  width: 100%;
+  height: 2px;
+  margin: 20px 10px 20px 10px;
+}
+
+.text-down {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+.text-down .tex-down--soft {
+  opacity: 40%;
+}/*# sourceMappingURL=styles.css.map */
